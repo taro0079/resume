@@ -1,0 +1,12 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:taro0079/resume.git",
+  "author": "Taro Morita <morita0079@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "md-to-pdf": "^5.2.1",
+    "textlint": "^13.1.4"
+  }
+}
